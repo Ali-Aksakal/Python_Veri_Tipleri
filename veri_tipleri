@@ -1,0 +1,14 @@
+Tip          Kısaltma    Kısa Tanım                                                Örnek
+-----------------------------------------------------------------------------------------------------
+Integer      int         Tam sayılar                                               2,5,7,11,137,2375
+Float        float       Ondalık sayılar                                           3.4 , 47.2 , 928.5
+String       str         Karakter dizileri                                         'a', 'abc', 'merhaba' , '333'
+Boolean      bool        Mantık tipi veriler(sadece 2 değeri vardır)               True, False
+List         list        Verilerin listelendiği veri tipi,[] içinde gösterilir.    [1, 'a', 'FB', True]
+Set(küme)    set         Bir diğer liste veri tipidir, ancak içinde tekrar eden
+                         öğeler barındırmaz ve indexleme yapılmasına izin vermez    {7, 13, False}
+                         {} içinde gösterilir.
+Dictionary   dict        Sözlük tipi veri listesidir. İçerdiği verilerin farklı     {'İsim' : 'Ali' , 'Yaş' : 46}
+                         boyutlarınıda gösterir.{} içinde gösterilir.
+Tuple        tup         Bir diğer liste veri tipidir. En önemli özelliği içerdiği  (6, 84, 'j' , 'red')
+                         verilerin değiştirilemez olmasıdır. () içinde gösterilir.
